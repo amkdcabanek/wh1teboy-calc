@@ -1,4 +1,3 @@
-# dark-theme-calculator/dark-theme-calculator/README.md
 
 # Dark Theme Calculator
 
