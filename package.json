@@ -1,0 +1,21 @@
+{
+  "name": "dark-theme-calculator",
+  "version": "1.0.0",
+  "description": "A clean dark-themed calculator application optimized for mobile devices.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "calculator",
+    "dark-theme",
+    "mobile",
+    "responsive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
